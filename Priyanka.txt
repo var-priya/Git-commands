@@ -1,5 +1,5 @@
 This is file for git commands
-
+#these are basic commands
 
 1. git add filename 
 2. git init 
