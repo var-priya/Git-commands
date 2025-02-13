@@ -9,4 +9,7 @@ This is file for git commands
 6. git branch 
 7. git rebase 
 8. git reset and revert
-9. git stash 
+9. git stash
+10. git remote -v
+11. git --congfig global user.name "name"
+12. git --congfig global user.email "email"
