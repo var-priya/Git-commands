@@ -1,0 +1,12 @@
+This is file for git commands
+
+
+1. git add filename 
+2. git init 
+3. git log 
+4. git status 
+5. git commit -m "message"
+6. git branch 
+7. git rebase 
+8. git reset and revert
+9. git stash 
